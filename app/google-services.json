@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "709253079120",
+    "firebase_url": "https://proyecto-3ac5e-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-3ac5e",
+    "storage_bucket": "proyecto-3ac5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709253079120:android:16642603b268980ff7f155",
+        "android_client_info": {
+          "package_name": "LOL.sqlite_asm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB-TjDJe4-pCEkkaJ9aAMYhBWLUWsaZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709253079120:android:7b791915e1dad826f7f155",
+        "android_client_info": {
+          "package_name": "com.example.proyectoalmacenes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB-TjDJe4-pCEkkaJ9aAMYhBWLUWsaZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709253079120:android:bc24bb05b4efed03f7f155",
+        "android_client_info": {
+          "package_name": "com.jsh.actividadunidad3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB-TjDJe4-pCEkkaJ9aAMYhBWLUWsaZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
